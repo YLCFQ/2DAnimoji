@@ -16,3 +16,6 @@ six==1.10.0
 Twisted==16.2.0
 txaio==2.5.1
 zope.interface==4.2.0
+fabric==1.13
+psycopg2==2.7.3.1
+pycrypto==2.6.1
